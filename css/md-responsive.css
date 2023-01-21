@@ -1,0 +1,139 @@
+@media (min-width: 1024px) {
+  .x .c1-e {
+    font-size: 16px
+  }
+
+  .x .c1-y {
+    padding-top: 0px
+  }
+
+  .x .c1-z {
+    padding-bottom: 0px
+  }
+
+  .x .c1-10 {
+    margin-bottom: 0px
+  }
+
+  .x .c1-12 {
+    display: flex
+  }
+
+  .x .c1-13 {
+    flex-direction: column
+  }
+
+  .x .c1-2b {
+    font-size: 20px
+  }
+
+  .x .c1-2n {
+    font-size: 25px
+  }
+
+  .x .c1-2s {
+    font-size: 14px
+  }
+
+  .x .c1-4f {
+    display: none
+  }
+
+  .x .c1-5q {
+    font-size: 30px
+  }
+
+  .x .c1-5w {
+    width: 984px
+  }
+
+  .x .c1-6h {
+    min-width: 300px
+  }
+
+  .x .c1-6i {
+    font-size: 22px
+  }
+
+  .x .c1-6v {
+    margin-left: 16.666666666666664%
+  }
+
+  .x .c1-6w {
+    flex-basis: 66.66666666666666%
+  }
+
+  .x .c1-6x {
+    max-width: 66.66666666666666%
+  }
+
+  .x .c1-9u {
+    padding-top: 8px
+  }
+
+  .x .c1-9v {
+    padding-bottom: 8px
+  }
+
+  .x .c1-9w {
+    padding-left: 4px
+  }
+
+  .x .c1-9x {
+    padding-right: 4px
+  }
+
+  .x .c1-9y:hover {
+    background-color: rgb(255, 255, 255)
+  }
+
+  .x .c1-a3 {
+    padding-top: 16px
+  }
+
+  .x .c1-a4 {
+    font-size: 18px
+  }
+
+  .x .c1-ai {
+    margin-top: 0
+  }
+
+  .x .c1-bo {
+    width: 48px
+  }
+
+  .x .c1-bp {
+    height: 48px
+  }
+
+  .x .c1-bq {
+    margin-left: 24px
+  }
+
+  .x .c1-br {
+    margin-right: 24px
+  }
+
+  .x .c1-bs {
+    padding-right: 0px
+  }
+
+  .x .c1-bt {
+    padding-left: 0px
+  }
+
+  .x .c1-d0 {
+    font-size: 12px
+  }
+
+  .x .c1-d8 {
+    z-index: 9999
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .x .c1-49 {
+    right: 0px
+  }
+}
