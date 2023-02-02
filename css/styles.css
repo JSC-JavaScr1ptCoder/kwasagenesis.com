@@ -242,6 +242,17 @@
   padding: 0
 }
 
+.widget-gallery-gallery-1>div>div>section {
+  background-image: url(/assets/tatecar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.widget-gallery-gallery-1>div>div>section>div-set>p {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px;
+}
+
 .widget-subscribe-subscribe-1>div>div>section {
   background-image: url(/assets/tatebrother.jpg);
   background-repeat: no-repeat;
