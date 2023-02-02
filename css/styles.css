@@ -35,6 +35,16 @@
   display: block
 }
 
+.header {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px;
+}
+
+.header>h1 {
+  padding: 0px;
+  margin: 0px;
+}
+
 .x-el-audio,
 .x-el-canvas,
 .x-el-progress,
@@ -197,6 +207,12 @@
   border: 0
 }
 
+.headercar {
+  background-image: url(" /assets/headercar.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .x-el-fieldset {
   border: 1px solid silver;
   margin: 0 2px;
@@ -224,6 +240,12 @@
 .x-el-td,
 .x-el-th {
   padding: 0
+}
+
+.widget-subscribe-subscribe-1>div>div>section {
+  background-image: url(/assets/tatebrother.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .x {
